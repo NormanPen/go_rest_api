@@ -1,4 +1,4 @@
-github.com/NormanPen/l298nhbridge v0.0.0-20230808121146-824c11067c6f h1:a6YBpMiGgTbinUWtjtq/IosF0methT7PDSo0OS/Rh5k=
-github.com/NormanPen/l298nhbridge v0.0.0-20230808121146-824c11067c6f/go.mod h1:5CRubY6KRCV/ATzRnK7+keRASSnuwJjSNX4y5UWt7dQ=
+github.com/NormanPen/l298nhbridge v0.0.0-20230808123123-d3a49c539a8f h1:HqOkLhWP8KAFMWE3vqmwYHoxbchgWnD+rkyXDMrt0oY=
+github.com/NormanPen/l298nhbridge v0.0.0-20230808123123-d3a49c539a8f/go.mod h1:yC1NLYjkuK1Uw+WUeufJeWvL132ifGE2P+/WenHRzVA=
 github.com/stianeikeland/go-rpio/v4 v4.6.0 h1:eAJgtw3jTtvn/CqwbC82ntcS+dtzUTgo5qlZKe677EY=
 github.com/stianeikeland/go-rpio/v4 v4.6.0/go.mod h1:A3GvHxC1Om5zaId+HqB3HKqx4K/AqeckxB7qRjxMK7o=
